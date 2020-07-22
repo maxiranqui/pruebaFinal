@@ -1,0 +1,6 @@
+[
+    { "nombre": "Luis", "apellido": "Parada", "edad": 44, "destino": "Barcelona", "fechaViaje": "Diciembre 2020" },
+    { "nombre": "Maxi", "apellido": "Ranquileo", "edad": 30, "destino": "Berlin", "fechaViaje": "Enero 2021" },
+    { "nombre": "Ignacio", "apellido": "Ortiz", "edad": 25, "destino": "Roma", "fechaViaje": "Febrero 2021" },
+    { "nombre": "Ricardo", "apellido": "Fort", "edad": 45, "destino": "EEUU", "fechaViaje": "Marzo 2021" }
+] 
